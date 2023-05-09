@@ -1,6 +1,6 @@
-//Desenvolva um algoritmo que efetue a média de quatro números.
-//A média deve ser realizada através de um procedimento
-//que receberá os quatro números e mostrará o resultado na tela.
+//Desenvolva um algoritmo que efetue a mÃ©dia de quatro nÃºmeros.
+//A mÃ©dia deve ser realizada atravÃ©s de um procedimento
+//que receberÃ¡ os quatro nÃºmeros e mostrarÃ¡ o resultado na tela.
 
 
 
@@ -44,7 +44,7 @@ inicio
          result:real
       inicio
          result <- (x + y + z + h)/4
-         escreval("O resultado é ", result)
+         escreval("O resultado Ã© ", result)
       fimprocedimento
 
  /////////////////////////////////////////////
