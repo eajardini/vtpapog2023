@@ -1,6 +1,6 @@
-//Desenvolva um algoritmo que efetue o c·lculo
-//da tabuada de um n˙mero. O c·lculo dever· ser realizado atravÈs de um procedimento
-//que receber· o n˙mero e mostrar· o resultado na tela.
+//Desenvolva um algoritmo que efetue o c√°lculo
+//da tabuada de um n√∫mero. O c√°lculo dever√° ser realizado atrav√©s de um procedimento
+//que receber√° o n√∫mero e mostrar√° o resultado na tela.
 
 
 
@@ -42,7 +42,7 @@ inicio
       fimprocedimento
 
    /////////////////////////////
-   escreva("Informe o n˙mero para calcular a tabuada: ")
+   escreva("Informe o n√∫mero para calcular a tabuada: ")
    leia(n1)
 
    cal_tabuada(n1)
